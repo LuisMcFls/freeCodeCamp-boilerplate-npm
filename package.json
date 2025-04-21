@@ -1,6 +1,6 @@
 {
-	"author": "Luis Mizquez",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Luis Mizquez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
